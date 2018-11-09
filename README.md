@@ -1,2 +1,2 @@
 # hello-world
-first repository
+I like drawing and painting and yoga and running.
